@@ -1,9 +1,10 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHRded_HodhKg/profile-displaybackgroundimage-shrink_350_1400/0/1695467381592?e=1700697600&v=beta&t=VS9UB3Xfi0pGJfN_A6FzSe-vy5tjTU_3p9pRXmRC8_8)
 <h1 align="center">Hi 👋, I'm M.J.JOY</h1>
 <h3 align="center">A Programmer</h3>
-<img align="right" alt="coding" width="300px" hight="200px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjjoy49&label=Profile%20views&color=0e75b6&style=flat" alt="mjjoy49" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjjoy49" alt="mjjoy49" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -26,3 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjjoy49&show_icons=true&locale=en&layout=compact" alt="mjjoy49" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjjoy49&show_icons=true&locale=en" alt="mjjoy49" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjjoy49&" alt="mjjoy49" /></p>
+
