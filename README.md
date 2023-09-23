@@ -4,7 +4,7 @@
 
 
 
-<img align="center" alt="coding" width="300" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="center" alt="coding" width="500" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 🌱 I’m currently learning **JAVA**
 
