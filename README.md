@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQHRded_HodhKg/profile-displaybackgroundimage-shrink_350_1400/0/1695467381592?e=1700697600&v=beta&t=VS9UB3Xfi0pGJfN_A6FzSe-vy5tjTU_3p9pRXmRC8_8)
 <h1 align="center">Hi 👋, I'm M.J.JOY</h1>
 <h3 align="center">A Programmer</h3>
-<img align="right" alt="coding" width="400" hight="200" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"
+<img align="right" alt="coding" width="400px" hight="200px" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjjoy49&label=Profile%20views&color=0e75b6&style=flat" alt="mjjoy49" /> </p>
 
