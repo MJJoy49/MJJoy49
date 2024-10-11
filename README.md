@@ -3,7 +3,7 @@
 
 # Hi, I'm MJ Joy! 👋
 
-### 🚀 Web Developer | C# Enthusiast | AI Explorer
+### 🚀  Web Developer | Programmer
 <div align="center"><img  alt="coding" width="400"  src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></div>
 
 I'm a passionate developer with a love for building modern web applications. With experience in front-end technologies like **HTML**, **CSS**, **JavaScript**, **React**, and styling frameworks like **Tailwind CSS**, I aim to deliver visually appealing and user-friendly interfaces. I also enjoy working with **C#** to build powerful desktop applications. I'm always learning and experimenting with new tools to improve my skills.
@@ -15,12 +15,6 @@ I'm a passionate developer with a love for building modern web applications. Wit
 - **Frameworks**: React, Tailwind CSS
 - **Tools**: Git, GitHub, Visual Studio, VSCode
 - **Others**: .NET Framework,Node.js
-
----
-
-## 📊 GitHub Stats
-
-![MJ Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ---
 
