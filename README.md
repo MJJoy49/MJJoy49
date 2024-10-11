@@ -8,7 +8,7 @@
 
 
 
-📫 How to reach me **mjjoy499@gmail.com**
+📫 How to reach me **mdjoy1477@gmail.com**
 
 ⚡ Fun fact **A programmer is like a thinking rhinoceros.**
 
