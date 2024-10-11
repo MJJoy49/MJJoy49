@@ -6,7 +6,7 @@
 <div align="center"><img  alt="coding" width="400"  src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"></div>
 
 
-🌱 I’m currently learning **JAVA**
+
 
 📫 How to reach me **mjjoy499@gmail.com**
 
