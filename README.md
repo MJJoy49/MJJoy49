@@ -1,5 +1,5 @@
 
-**Hi, I'm MJ Joy!**</br>
+**Hi, I'm MJ Joy!** </br>
 **Web Developer | Programmer**</br>
 **-----------------------------------------------------------------**
 ## 🔧 Technologies I work with:
@@ -7,7 +7,7 @@
 - **Frameworks**: React, Tailwind CSS
 - **Tools**: Git, GitHub, Visual Studio, VSCode
 - **Others**: .NET Framework,Node.js </br>
-**-----------------------------------------------------------------**
+-----------------------------------------------------------------</br>
 💡 *Always ready to collaborate and learn from fellow developers!*
 
 
