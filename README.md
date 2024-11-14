@@ -1,7 +1,5 @@
 
-
-
-**Hi, I'm MJ Joy!**
+**Hi, I'm MJ Joy!**</br>
 **Web Developer | Programmer**</br>
 **-----------------------------------------------------------------**
 ## 🔧 Technologies I work with:
